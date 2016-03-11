@@ -18,7 +18,7 @@ public class Test1 {
 		Double PriceJP=myFunction("JFK","PHL");
 		System.out.println("Price from JFK to PHL is "+PriceJP);
 		
-	/*	if (PriceSJ==PriceJP){
+		if (PriceSJ==PriceJP){
 			System.out.println("The same price");
 		}
 		else if (PriceSJ>PriceJP){
@@ -29,7 +29,7 @@ public class Test1 {
 			System.out.println("Cheaper to go from SFO to JFK ");
 			
 		}
-		*/
+		
 			
 
 	}
